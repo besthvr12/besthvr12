@@ -11,6 +11,8 @@ I am a Computer Science graduate from IIT Madras with a strong focus on developi
 - **Deep Learning Models:** Experience in quantizing and deploying models like PIDNet, YOLOv7, and custom attention-based architectures.
 - **High-Performance Computing:** Developed parallelized computer vision algorithms using CUDA C++ to leverage GPU acceleration.
 - **Model Deployment:** Skilled in utilizing NVIDIA TensorRT and Apache TVM for efficient model deployment on specialized hardware.
+- **LLMs & Generative AI:** Worked with large language models and generative AI techniques for natural language processing, including model fine-tuning and deployment for applications like prompt injection detection.
+
 
 ---
 
