@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Harsh Verma
+🚀 Machine Learning Engineer | Perception Engineer | AI Enthusiast
 
-<!--
-**besthvr12/besthvr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate from IIT Madras with a strong focus on developing and optimizing deep learning models. I have hands-on experience in model quantization, pruning, and high-performance inference using NVIDIA TAO and TensorRT.
 
-Here are some ideas to get you started:
+🔍 Areas of Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deep Learning Models: Experience in quantizing and deploying models like PIDNet, YOLOv7, and custom attention-based architectures.
+High-Performance Computing: Developed parallelized computer vision algorithms using CUDA C++ to leverage GPU acceleration.
+Model Deployment: Skilled in utilizing NVIDIA TensorRT and Apache TVM for efficient model deployment on specialized hardware.
+🔬 Projects:
+
+Porting PyTorch on ShaktiMAAN SoC: Implemented deep learning frameworks on a RISC-V-based SoC using Apache TVM, contributing to research in AI hardware.
+SafePrompt: Developed a classification system to detect prompt injection attacks on large language models, achieving an accuracy of up to 97.41%.
+Word Transliteration: Created attention-based models for accurate transliteration across multiple languages.
+📝 Publications:
+
+Published research on CNN-based criminal detection and blind signal detection using modern deep learning techniques, showcasing the application of AI in complex domains.
